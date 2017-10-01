@@ -1,0 +1,1 @@
+# python-hitcard-bot
